@@ -1,2 +1,4 @@
 # DotNet-Resources
-Recursos para desarrolladores de la plataforma .Net en general
+-Listas de libros de Xamarin:
+https://blog.xamarin.com/community-books-xamarin-development/
+
